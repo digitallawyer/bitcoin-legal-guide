@@ -1,4 +1,4 @@
-bitcoin-legal-guide
+Bitcoin Legal Guide
 ===================
 
 # Give us feedback!
